@@ -1,7 +1,6 @@
 # appkey_wp_stamp_module
 
-A module for handle coupon feature for Appkey Wordpress App.
-[Example App](https://gitlab.com/appkey.jp/appkey-wp-module-example-app)
+A module for handle coupon feature for Wordpress App.
 
 ## Installation
 
