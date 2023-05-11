@@ -1,0 +1,8 @@
+{
+    "max_stamp" : 20,
+    "stamp_count" : 5,
+    "stamp" : {
+        "id" : 123,
+        "icon" : "https://asfasdfasdf"
+    }
+}

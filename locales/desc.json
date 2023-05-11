@@ -1,0 +1,13 @@
+{
+  "main": {
+    "stamp": "Stamp",
+    "stamp_card": "Stamp Card",
+    "pcs": "pcs",
+    "qr_scanner": "QR Scanner",
+    "description": "Description"
+  },
+  "response": {
+    "stamp_added": "Stamp added successfully",
+    "stamp_add_failed": "Failed add stamp or stamp has reached the limit"
+  }
+}

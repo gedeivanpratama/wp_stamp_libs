@@ -1,0 +1,13 @@
+{
+  "main": {
+    "stamp": "スタンプ",
+    "stamp_card": "スタンプカード",
+    "pcs": "点",
+    "qr_scanner": "QRスキャナー",
+    "description": "説明 "
+  },
+  "response": {
+    "stamp_added": "スタンプが正常に追加されました",
+    "stamp_add_failed": "スタンプの追加に失敗したか、スタンプが制限に達しました"
+  }
+}
